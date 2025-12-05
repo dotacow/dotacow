@@ -1,16 +1,14 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**dotacow/dotacow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  # Hi, I'm Yousef.
 
-Here are some ideas to get you started:
+  > "In order to write poetry that isn't political, I must listen to the birds. <br>
+  > And in order to hear the birds, the warplanes must be silent."
+  > <br>— *Marwan Makhoul*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <br>
+
+  <img src="https://github-readme-stats.vercel.app/api?username=dotacow&show_icons=true&theme=gruvbox&hide_border=true&hide=issues" height="180" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dotacow&layout=compact&theme=gruvbox&hide_border=true" height="180" alt="languages graph" />
+
+</div>
