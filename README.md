@@ -7,5 +7,5 @@
 <br>
 
 <div align="center">
-![stats](github-metrics.svg)
+  <img src="github-metrics.svg" alt="stats" width="100%">
 </div>
